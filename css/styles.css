@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+   
+  }
+  th {
+    background-color: gray;
+
+  }
+  img {
+      padding: 20px;
+      width: 50%;
+      height: 10%;
+  }
+  body {
+      margin-left: 10%;
+      margin-right: 10%;
+      
+  }
